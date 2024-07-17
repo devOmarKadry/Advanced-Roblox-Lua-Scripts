@@ -9,8 +9,8 @@ Hi there! I'm a 16-year-old Roblox Lua scripting expert with over 3 years of pro
 - Knit Framework: Proficient in utilizing this powerful framework for modular and maintainable code.
 
 # Projects #
--
--
+- Coins Rush Obby
+- Advanced ATM
 
 # Looking for Opportunities #
 - I am currently open to scripting opportunities in Roblox. If you're looking for a dedicated and skilled scripter to bring your game ideas to life, feel free to reach out!
